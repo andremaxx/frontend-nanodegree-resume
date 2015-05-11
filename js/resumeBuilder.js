@@ -1,1 +1,2 @@
-$("#main").append("Andre");
+$('#header').prepend(role);
+$('#header').prepend(formattedName);
